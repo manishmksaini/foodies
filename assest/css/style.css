@@ -296,7 +296,7 @@ Header-saction
  .story-section {
      width: 100%;
      height: 28.125rem;
-     background: url(/assest/img/bg/bg-2.jpg) no-repeat center;
+     background: url(../img/bg/bg-2.jpg) no-repeat center;
      background-size: cover;
      padding-top: 100px;
      text-align: center;
@@ -397,7 +397,7 @@ Header-saction
 
  .book-food {
      width: 100%;
-     background: url(/assest/img/bg/bg-3.jpg) no-repeat center;
+     background: url(../img/bg/bg-3.jpg) no-repeat center;
      background-size: cover;
      background-attachment: fixed;
      background-position: 0 71.9125px;
